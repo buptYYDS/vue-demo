@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "newFont";
+    src: url(./fonts/fa-solid.woff2);
+    font-size: 50px;
+}
+
+.p {
+    font-family: newFont;
+}
